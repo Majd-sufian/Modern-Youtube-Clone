@@ -1,10 +1,10 @@
 # Build and Deploy a Modern YouTube Clone Application in React/Typescript with Material UI 5 & Rapid Api
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
-
-## Introduction
-
 ### [Live Site for Youtube clone](https://youtube-clone-modern.netlify.app/)
+
+![YouTube]()
+![YouTube]()
+![YouTube]()
 
 ## Tech stack:
 
