@@ -2,9 +2,9 @@
 
 ### [Live Site for Youtube clone](https://youtube-clone-modern.netlify.app/)
 
-![YouTube]()
-![YouTube]()
-![YouTube]()
+![YouTube](https://github.com/Majd-sufian/Modern-Youtube-Clone/blob/main/src/youtube1%2018.53.46.png?raw=true)
+![YouTube](https://github.com/Majd-sufian/Modern-Youtube-Clone/blob/main/src/youtube2%2018.53.46.png?raw=true)
+![YouTube](https://github.com/Majd-sufian/Modern-Youtube-Clone/blob/main/src/youtube3%2018.53.46.png?raw=true)
 
 ## Tech stack:
 
